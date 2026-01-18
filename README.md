@@ -12,7 +12,7 @@ Saya aktif mengembangkan berbagai project dari e-commerce platform, portfolio we
 
 🌐 **Portfolio**: [portofolio-daffapandora.vercel.app](https://portofolio-daffapandora.vercel.app/)  
 💼 **LinkedIn**: [linkedin.com/in/daffapandora](https://www.linkedin.com/in/daffapandora/)  
-📧 **Email**: daffapandora@students.undip.ac.id
+📧 **Email**: daffapandoraelfarisi@students.undip.ac.id
 
 ---
 
