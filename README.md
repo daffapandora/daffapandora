@@ -19,7 +19,7 @@ Saya aktif mengembangkan berbagai project dari e-commerce platform, portfolio we
 
 **Backend & IoT Developer Intern** | PT Telkom Indonesia  
 📍 Lab Device Energy & Service (DES), Bandung  
-📅 January 2025 - Present (6 months)
+📅 Feb 2026 - Present
 - Developing backend systems and IoT monitoring solutions
 - Working with data analytics and system optimization
 
